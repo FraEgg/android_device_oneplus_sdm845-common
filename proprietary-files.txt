@@ -134,3 +134,6 @@ lib/libwfduibcsrcinterface.so
 lib64/libwfdclient.so
 lib64/libwfdnative.so
 -priv-app/WfdService/WfdService.apk
+
+# FOD
+lib64/vendor.oneplus.fingerprint.extension@1.0.so
