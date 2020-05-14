@@ -83,8 +83,8 @@ PRODUCT_PACKAGES_DEBUG += \
     bootctl
 
 # Camera
-PRODUCT_PACKAGES += \
-    GCam
+#PRODUCT_PACKAGES += \
+#    GCam
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilts/etc/permissions/org.codeaurora.snapcam.xml:system/etc/permissions/org.codeaurora.snapcam.xml
